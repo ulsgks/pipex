@@ -8,7 +8,7 @@
 ## ✨ Special Features
 - *Precision*: Meticulous error handling with distinct management strategies for system calls and program-specific errors.
 - *Security*: Robust protection for every system call and memory allocation.
-- *Advanced parser*: (For a pipex project.) It handles nested single and double quotes, backslash (`\`) escape sequences, newline (`\n`), and tab (`\t`) characters, and more.
+- *Advanced parser*: (For a Pipex project.) It handles nested single and double quotes, backslash (`\`) escape sequences, newline (`\n`), and tab (`\t`) characters, and more.
 - *Clean*: I did my best to keep it simple and readable, without too many files.
 
 ## 📋 Testing
